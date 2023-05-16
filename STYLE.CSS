@@ -1,0 +1,26 @@
+body {
+	font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+	text-align: center;
+  }
+  
+  #game-container {
+	margin: 0 auto;
+	width: 400px;
+  }
+  
+  #number {
+	margin-bottom: 10px;
+	width: 100%;
+  }
+  
+  #result {
+	margin-top: 20px;
+	padding: 10px;
+	text-align: center;
+	background-color: #f7f7f7;
+	border-radius: 5px;
+  }
+  
